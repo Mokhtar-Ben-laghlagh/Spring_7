@@ -1,4 +1,4 @@
-__ TP 7 : Spring Boot et Swagger
+ ** TP 7 : Spring Boot et Swagger
 ## structure du projet :
 <img width="411" height="650" alt="Capture d&#39;écran 2026-03-10 175318" src="https://github.com/user-attachments/assets/2caf0213-45d6-4895-bf3d-48436547df35" />
 
