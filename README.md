@@ -1,3 +1,7 @@
+# structure du projet :
+<img width="411" height="650" alt="Capture d&#39;écran 2026-03-10 175318" src="https://github.com/user-attachments/assets/2caf0213-45d6-4895-bf3d-48436547df35" />
+
+
 <img width="1919" height="1079" alt="Capture d&#39;écran 2026-03-10 171752" src="https://github.com/user-attachments/assets/1ba1478c-b2ed-41b4-a173-83b159982f07" />
 <img width="1919" height="1079" alt="Capture d&#39;écran 2026-03-10 171932" src="https://github.com/user-attachments/assets/576eb737-c858-4ab5-ae5f-08d6e37eb601" />
 <img width="1919" height="1079" alt="Capture d&#39;écran 2026-03-10 172021" src="https://github.com/user-attachments/assets/d470a00d-efc6-4505-9a27-6ae266810e2d" />
